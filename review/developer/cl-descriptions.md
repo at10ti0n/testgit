@@ -58,7 +58,7 @@ Other similarly bad descriptions include:
 -   "Moving code from A to B."
 -   "Phase 1."
 -   "Add convenience functions."
--   "kill weird URLs."
+-   "kill weird URLs"
 
 Some of those are real CL descriptions. Their authors may believe they are
 providing useful information, but they are not serving the purpose of a CL
